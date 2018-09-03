@@ -1,0 +1,6 @@
+Hi Sir,
+
+       Stock is about to Close, Please Order stock.
+
+Product Name: {!Merchandise__c.Name}
+Available stock : {!Merchandise__c.Quantity__c}
